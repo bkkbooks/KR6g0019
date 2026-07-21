@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6g0019_000.yaml, hash: 'sha256:0133608db8a7f9ba1ca74aa3a0b238d374fb99256704a9d77b9a5a44031bc20d'}
+  - {seq: 0, filename: KR6g0019_000.yaml, hash: 'sha256:31752efff302c818ebf760f2c663943aee303e2bcd89eb9842f8e9e4e5db96e3'}
   - {seq: 1, filename: KR6g0019_001.yaml, hash: 'sha256:ff42e995bc580f46b762375e1d1be3d25be2194c95ae2fed1440e32ef6225d86'}
   - {seq: 2, filename: KR6g0019_002.yaml, hash: 'sha256:246d374286cd02d8751df9bb3937109f6211419bf064bb115ef03a008948ef1b'}
   - {seq: 3, filename: KR6g0019_003.yaml, hash: 'sha256:3ef3b666cb2efb37c226ae19b4d6149f429cb19458d0be2efc6ded05b88fcbed'}
@@ -42,7 +42,7 @@ assets:
   - {seq: 19, filename: KR6g0019_019.yaml, hash: 'sha256:3c6a674593704c186d46509abea7378fd4b0a3c11348bdb62c2148f8cfec7465'}
   - {seq: 20, filename: KR6g0019_020.yaml, hash: 'sha256:9f4f0a805098d88e95b8f31504d3466eb312254cd0f5b44cd9cf725e342d33f1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6g0019_000.markers.yaml, hash: 'sha256:8e1a871ade3c68b32d3810505f628a8fb83d0e52726fa4b8056ceb73abee311c'}
+  - {seq: 0, role: markers, filename: assets/KR6g0019_000.markers.yaml, hash: 'sha256:fa1e3f513195aa601b566299fcfca0ce07be560abdf242db0f3c76cd809c0d62'}
   - {seq: 1, role: markers, filename: assets/KR6g0019_001.markers.yaml, hash: 'sha256:e95e00855bdb9812ce8cffa51dd39831f218b069cdfeed2b212aa1c67162f75b'}
   - {seq: 2, role: markers, filename: assets/KR6g0019_002.markers.yaml, hash: 'sha256:fc3697233f4bcdceecc7623e4d50b574d2b7a63ac8c8b284d9b52745059f0951'}
   - {seq: 3, role: markers, filename: assets/KR6g0019_003.markers.yaml, hash: 'sha256:64e121cff42ccf725027f614683e990f516fb0e1f73598f325a7d35fce2208cb'}
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6g0019_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 662-A 刻涅槃經疏三德指歸序
@@ -77,7 +77,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6g0019_X_000-mulu-2
     span:
-    - front
+    - body
     - 606
     - 606
   label: No. 662-B 涅槃經疏三德指歸序
@@ -87,7 +87,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6g0019_X_000-mulu-3
     span:
-    - front
+    - body
     - 890
     - 890
   label: 目次
@@ -813,7 +813,7 @@ table_of_contents:
   label: 釋廓潤品第四
   type: mulu
   level: 1
-hash: sha256:5650c18539a1c6142f58f1f2672f9865ccc7727a57a1a5aafa878e79ef03eaf8
+hash: sha256:e022211d89788a6e4ad345b330d7268a0ca45279b16f87f9579eec658d9da96b
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
